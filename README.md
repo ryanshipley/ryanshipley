@@ -17,6 +17,7 @@ My name is Ryan Shipley, I am a full stack developer who loves to implement my k
 
 ## GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ryanshipley&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshipley&langs_count=5&theme=tokyonight)]()
 
 
 <!--
