@@ -13,7 +13,7 @@ My name is Ryan Shipley, I am a full stack developer who loves to implement my k
 - :notes: Music Lover
 - :books: multilingual
 - ➗Mathematics
-- :soccer: F&uacute;tbol enthusiast
+- :soccer: F&uacute;tbol enthusiast([Visca Bar&ccedil;a](https://www.fcbarcelona.com/)) 
 
 
 
