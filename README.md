@@ -3,7 +3,7 @@ My name is Ryan Shipley, I am a full stack developer who loves to implement my k
 
 ## Some Technologies I use
 - HTML5
-- CSS 3
+- CSS3
 - JavaScript
 - jQuery
 - Java
