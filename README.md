@@ -1,5 +1,12 @@
 ### Hi there 👋 
-My name is Ryan Shipley, I am a full stack developer who loves to implement my knowledge to solve a wide range of problems. I love to spread my knowledege to as many people as possible. I love to problem solve, learn, and teach. I speak multiple different languages and all this knowledge is helping further my career in mathematics and software development. I am currently working on a Star Wars database project. Check that out [here](https://github.com/ryanshipley/StarWars-Character-DB).
+My name is Ryan Shipley, I am a full stack developer who loves to implement my knowledge to solve a wide range of problems. I love to spread my knowledege to as many people as possible. I love to problem solve, learn, and teach. I speak multiple different languages and all this knowledge is helping further my career in mathematics and software development. I am currently working on a Star Wars database project. Check that out [here](https://github.com/ryanshipley/StarWars-Character-DB). Being the Star Wars fan that I am, I plan on making a larger API with more information to make a better application. 
+
+## Some Technologies I use
+- HTML5
+- CSS 3
+- JavaScript
+- jQuery
+- Java
 
 <!--
 **ryanshipley/ryanshipley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
