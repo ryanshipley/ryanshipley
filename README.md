@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Ryan Shipley, I am a full stack developer who loves to implement my knowledge to solve a wide range of problems. I love to learn and spread my knowledege to as many people as possible. 
+My name is Ryan Shipley, I am a full stack developer who loves to implement my knowledge to solve a wide range of problems. I love to spread my knowledege to as many people as possible. I love to problem solve, learn, and teach. I speak multiple different languages and all this knowledge is helping further my career in mathematics and software development.
 
 <!--
 **ryanshipley/ryanshipley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
