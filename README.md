@@ -15,6 +15,8 @@ My name is Ryan Shipley, I am a full stack developer who loves to implement my k
 - ➗Mathematics
 - :soccer: F&uacute;tbol enthusiast([Visca Bar&ccedil;a](https://www.fcbarcelona.com/)) 
 
+## GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ryanshipley&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 <!--
