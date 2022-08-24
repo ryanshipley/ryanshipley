@@ -10,7 +10,7 @@ My name is Ryan Shipley, I am a full stack developer who loves to implement my k
 
 ## More about Ryan
 - Currently enrolled in a software engineering bootcamp at General Assembly
--:notes: Music Lover
+- :notes: Music Lover
 
 
 
