@@ -1,7 +1,7 @@
 ### Hi there 👋 
 My name is Ryan Shipley, I am a full stack developer who loves to implement my knowledge to solve a wide range of problems. I love to spread my knowledege to as many people as possible. I love to problem solve, learn, and teach. I speak multiple different languages and all this knowledge is helping further my career in mathematics and software development. I am currently working on a Star Wars database project. Check that out [here](https://github.com/ryanshipley/The-Star-Wars-Database). Being the Star Wars fan that I am, I plan on making a larger API with more information to make a better application. Feel free to contact me :email: @[rysanshipley23@gmail.com](ryanshipley23@gmail.com).
 
-## Some Technologies I use
+## Some Technologies/Languages I use
 - HTML5
 - CSS3
 - JavaScript
