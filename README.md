@@ -8,7 +8,7 @@ My name is Ryan Shipley, I am a full stack developer who loves to implement my k
 - jQuery
 - Java
 - EJS
--Mongo/MongoDB
+- Mongo/MongoDB
 
 ## More about Ryan
 - Currently enrolled in a software engineering bootcamp at General Assembly
