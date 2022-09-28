@@ -9,6 +9,8 @@ My name is Ryan Shipley, I am a full stack developer who loves to implement my k
 - Java
 - EJS
 - Mongo/MongoDB
+- React
+- Postman
 
 ## More about Ryan
 - Currently enrolled in a software engineering bootcamp at General Assembly
